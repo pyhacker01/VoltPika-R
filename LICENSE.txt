@@ -1,0 +1,43 @@
+VoltPika-R License Agreement
+Copyright (c) 2024 VoltPika-R
+
+This License Agreement governs the use of the VoltPika-R software (the "Software"). By purchasing and using the Software, you (the "User") agree to the following terms:
+
+1. Software Purchase and Access to Source Code
+1.1 The Software is a paid product. Users must purchase a license to obtain access to the Software.
+1.2 Upon purchase, the User will also receive access to the Software's source code.
+
+The source code is provided for transparency, learning, and internal modifications but is subject to the restrictions outlined in Section 2.
+
+2. Source Code Usage and Restrictions
+2.1 The source code is free for personal use but may not be:
+
+Redistributed: Shared, sold, or sublicensed in any form, either original or modified.
+Used for Derivative Works: Used to create products intended for commercial distribution or public release without prior written permission.
+2.2 Any modifications to the source code must remain for personal or internal use only and must comply with these restrictions.
+
+3. Prohibited Activities
+3.1 The User may not:
+
+Share or distribute the Software or its source code to third parties.
+Use the Software or source code to create a competing product.
+Circumvent licensing mechanisms or tamper with any part of the Software.
+4. Payment and Licensing
+4.1 Purchase of the Software grants the User a single, non-transferable license to use the Software.
+4.2 Ownership of the Software and source code remains with VoltPika-R. Purchasing the Software does not transfer intellectual property rights to the User.
+
+5. No Warranty
+THE SOFTWARE AND SOURCE CODE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Termination
+6.1 This license is valid until terminated.
+6.2 It will terminate automatically if the User violates any of its terms.
+6.3 Upon termination, the User must cease all use of the Software and destroy all copies, including source code, in their possession.
+
+7. Support and Updates
+7.1 Users with valid licenses may receive updates, bug fixes, or support services as determined by VoltPika-R.
+7.2 Access to updates may require an active support plan or additional fees.
+
+8. Contact Information
+For licensing inquiries, support, or other questions, contact:
+cyberpheonix27@gmail.com
