@@ -41,7 +41,7 @@ Also, feel free to share it with your friends and family to spread the word! ðŸ“
 [![Instagram](https://img.shields.io/badge/Follow%20Us-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/code_dreamerr_)  
 [![Telegram](https://img.shields.io/badge/Join%20Our%20Channel-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/pyhacker01)  
 [![Thread](https://img.shields.io/badge/Follow%20Us%20on%20Thread-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/code_dreamerr_)  
-[![GitHub](https://img.shields.io/badge/Check%20Our%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/puhacker01)
+[![GitHub](https://img.shields.io/badge/Check%20Our%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pyhacker01)
 
 We look forward to connecting with you!!ðŸ˜Š
 
